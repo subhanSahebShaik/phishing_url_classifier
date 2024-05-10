@@ -53,7 +53,7 @@ To use the Phishing URL Classification System locally, follow these steps:
 - Django
 - Pandas
 - Scikit-learn
-- React.js
+- React JS
 
 ## Contributing
 Contributions are welcome! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
